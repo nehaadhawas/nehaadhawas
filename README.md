@@ -17,7 +17,7 @@ Here you'll find a mix of projects—some creative, some practical, and all full
 
 ## 📬 Get in touch:
 Let’s chat about code, ideas, or just life!  
-Feel free to open an issue, make a pull request, or connect with me on [Your Social Handle].
+Feel free to open an issue, make a pull request, or connect with me .
 
 ---
 
