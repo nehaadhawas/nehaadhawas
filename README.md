@@ -2,8 +2,6 @@
 
 Python developer focused on backend systems and applied computer vision — building things that process images, track motion, or move data between a database and a browser.
 
-Day to day: Flask and FastAPI for backend work, OpenCV and MediaPipe for anything involving a camera, PyTorch when a project needs a model. I'll write the frontend myself in plain HTML/CSS/JS when a project needs one — no framework unless the project actually calls for it.
-
 ---
 
 **brain-tumor-segmentation-3d-unet**
