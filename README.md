@@ -16,6 +16,10 @@ Full-stack app for tailoring businesses — customers, orders, measurements, fab
 `Python` `FastAPI` `MySQL` `HTML/CSS/JS`
 → [github.com/nehaadhawas/Tailor-Management-System](https://github.com/nehaadhawas/Tailor-Management-System)
 
+RAG (Retrieval Augmented Generation) chatbot — upload PDFs, ask questions, get grounded answers with sources.
+Python · FastAPI · FAISS · Gemini API · sentence-transformers · HTML/CSS/JS
+→ github.com/nehaadhawas/rag-chatbot
+
 **virtual-air-canvas**
 Hand-tracking drawing app — draw in the air, tracked by webcam, no physical input device.
 `Python` `OpenCV` `MediaPipe`
