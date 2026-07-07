@@ -1,9 +1,8 @@
 # Neha Dhawas
 
-Python developer focused on backend systems and applied computer vision — building things that process images, track motion, or move data between a database and a browser.
 
----
-
+CS student who got curious about AI/ML and now can't stop building things. I like understanding how stuff actually works under the hood not just using libraries but knowing why they exist.
+Always building. Always debugging. Always googling the error. 
 **brain-tumor-segmentation-3d-unet**
 3D U-Net for tumor segmentation on BraTS 2020, with automated clinical report generation.
 `Python` `PyTorch` `MONAI` `Streamlit` `PostgreSQL` `Gemini API`
